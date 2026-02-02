@@ -1,0 +1,44 @@
+{
+  "parent": {
+    "id": "airflow-industries",
+    "name": "AirFlow Industries",
+    "tagline": "Powering Industries Since 1990",
+    "description": "Leading manufacturer and distributor of industrial air compressors, serving over 1000+ customers across 50+ countries.",
+    "logo": "/logos/airflow-main.svg",
+    "phone": "+91 22 1234 5678",
+    "email": "info@airflowindustries.com",
+    "address": "Plot 42, Industrial Area, Mumbai, Maharashtra, India - 400001"
+  },
+  "children": [
+    {
+      "id": "airtech-compressors",
+      "name": "AirTech Compressors",
+      "specialty": "Reciprocating Compressors",
+      "logo": "/logos/airtech.svg"
+    },
+    {
+      "id": "screw-master",
+      "name": "ScrewMaster Systems",
+      "specialty": "Screw Air Compressors",
+      "logo": "/logos/screwmaster.svg"
+    },
+    {
+      "id": "oilfree-solutions",
+      "name": "OilFree Solutions",
+      "specialty": "Oil-Free Compressors",
+      "logo": "/logos/oilfree.svg"
+    },
+    {
+      "id": "vacuum-dynamics",
+      "name": "Vacuum Dynamics",
+      "specialty": "Vacuum Pumps & Dryers",
+      "logo": "/logos/vacuumdynamics.svg"
+    }
+  ],
+  "stats": {
+    "installations": 500,
+    "customers": 1000,
+    "years": 35,
+    "countries": 50
+  }
+}

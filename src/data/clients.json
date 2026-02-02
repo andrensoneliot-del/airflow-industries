@@ -1,0 +1,64 @@
+{
+    "clients": [
+        {
+            "id": "tata-steel",
+            "name": "Tata Steel",
+            "logo": "/clients/tata-steel.svg",
+            "website": "https://www.tatasteel.com"
+        },
+        {
+            "id": "reliance",
+            "name": "Reliance Industries",
+            "logo": "/clients/reliance.svg",
+            "website": "https://www.ril.com"
+        },
+        {
+            "id": "mahindra",
+            "name": "Mahindra & Mahindra",
+            "logo": "/clients/mahindra.svg",
+            "website": "https://www.mahindra.com"
+        },
+        {
+            "id": "larsen",
+            "name": "Larsen & Toubro",
+            "logo": "/clients/lt.svg",
+            "website": "https://www.larsentoubro.com"
+        },
+        {
+            "id": "bajaj",
+            "name": "Bajaj Auto",
+            "logo": "/clients/bajaj.svg",
+            "website": "https://www.bajajauto.com"
+        },
+        {
+            "id": "cipla",
+            "name": "Cipla Pharmaceuticals",
+            "logo": "/clients/cipla.svg",
+            "website": "https://www.cipla.com"
+        },
+        {
+            "id": "jindal",
+            "name": "JSW Steel",
+            "logo": "/clients/jsw.svg",
+            "website": "https://www.jsw.in"
+        },
+        {
+            "id": "ultratech",
+            "name": "UltraTech Cement",
+            "logo": "/clients/ultratech.svg",
+            "website": "https://www.ultratechcement.com"
+        },
+        {
+            "id": "asian-paints",
+            "name": "Asian Paints",
+            "logo": "/clients/asian-paints.svg",
+            "website": "https://www.asianpaints.com"
+        },
+        {
+            "id": "havells",
+            "name": "Havells India",
+            "logo": "/clients/havells.svg",
+            "website": "https://www.havells.com"
+        }
+    ]
+}

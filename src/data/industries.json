@@ -1,0 +1,74 @@
+{
+    "industries": [
+        {
+            "id": "automotive",
+            "name": "Automotive",
+            "description": "Powering assembly lines, paint shops, and pneumatic tools in automotive manufacturing plants.",
+            "icon": "Car",
+            "image": "/industries/automotive.jpg"
+        },
+        {
+            "id": "pharmaceutical",
+            "name": "Pharmaceutical",
+            "description": "ISO Class 0 oil-free air for drug manufacturing, packaging, and cleanroom applications.",
+            "icon": "Pill",
+            "image": "/industries/pharmaceutical.jpg"
+        },
+        {
+            "id": "food-beverage",
+            "name": "Food & Beverage",
+            "description": "Contamination-free compressed air for food processing, packaging, and beverage production.",
+            "icon": "Utensils",
+            "image": "/industries/food-beverage.jpg"
+        },
+        {
+            "id": "textile",
+            "name": "Textile",
+            "description": "Reliable air supply for spinning, weaving, dyeing, and textile finishing operations.",
+            "icon": "Scissors",
+            "image": "/industries/textile.jpg"
+        },
+        {
+            "id": "chemical",
+            "name": "Chemical",
+            "description": "Explosion-proof and corrosion-resistant compressors for chemical processing plants.",
+            "icon": "FlaskConical",
+            "image": "/industries/chemical.jpg"
+        },
+        {
+            "id": "glass",
+            "name": "Glass Industry",
+            "description": "High-pressure air systems for glass blowing, molding, and finishing processes.",
+            "icon": "Wine",
+            "image": "/industries/glass.jpg"
+        },
+        {
+            "id": "iron-steel",
+            "name": "Iron & Steel",
+            "description": "Heavy-duty compressors for iron ore processing, steel manufacturing, and foundries.",
+            "icon": "Factory",
+            "image": "/industries/iron-steel.jpg"
+        },
+        {
+            "id": "packaging",
+            "name": "Packaging",
+            "description": "Precision air supply for packaging machinery, labeling, and palletizing systems.",
+            "icon": "Package",
+            "image": "/industries/packaging.jpg"
+        },
+        {
+            "id": "medical",
+            "name": "Medical & Healthcare",
+            "description": "Medical-grade oil-free air for hospitals, clinics, and medical device manufacturing.",
+            "icon": "Stethoscope",
+            "image": "/industries/medical.jpg"
+        },
+        {
+            "id": "shipping",
+            "name": "Shipping & Marine",
+            "description": "Marine-grade compressors for shipyards, container handling, and maritime operations.",
+            "icon": "Ship",
+            "image": "/industries/shipping.jpg"
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "categories": [
+        {
+            "id": "reciprocating",
+            "name": "Reciprocating Air Compressors",
+            "icon": "Cylinder"
+        },
+        {
+            "id": "screw",
+            "name": "Screw Air Compressors",
+            "icon": "Cog"
+        },
+        {
+            "id": "oil-free",
+            "name": "Oil-Free Compressors",
+            "icon": "Droplet"
+        },
+        {
+            "id": "scroll",
+            "name": "Scroll Compressors",
+            "icon": "Circle"
+        },
+        {
+            "id": "vacuum",
+            "name": "Vacuum Pumps",
+            "icon": "Wind"
+        },
+        {
+            "id": "dryers",
+            "name": "Air Dryers & Filters",
+            "icon": "Filter"
+        }
+    ],
+    "products": [
+        {
+            "id": "rec-01",
+            "name": "Industrial Reciprocating Compressor 3-15HP",
+            "category": "reciprocating",
+            "subcategory": "oil-lubricated",
+            "power": "3-15 HP",
+            "pressure": "7-10 Bar",
+            "flow": "50-500 CFM",
+            "features": [
+                "Energy Efficient",
+                "Low Noise",
+                "Easy Maintenance",
+                "Tank Mounted"
+            ],
+            "image": "/products/reciprocating-01.jpg",
+            "pdfUrl": "/downloads/rec-01-brochure.pdf",
+            "isNew": false,
+            "isFeatured": true,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "rec-02",
+            "name": "High Pressure Reciprocating Compressor",
+            "category": "reciprocating",
+            "subcategory": "high-pressure",
+            "power": "5-25 HP",
+            "pressure": "30-40 Bar",
+            "flow": "100-300 CFM",
+            "features": [
+                "High Pressure Output",
+                "Robust Design",
+                "Industrial Grade",
+                "Long Life"
+            ],
+            "image": "/products/reciprocating-02.jpg",
+            "pdfUrl": "/downloads/rec-02-brochure.pdf",
+            "isNew": true,
+            "isFeatured": true,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "screw-01",
+            "name": "Rotary Screw Compressor 15-50HP",
+            "category": "screw",
+            "subcategory": "fixed-speed",
+            "power": "15-50 HP",
+            "pressure": "7-13 Bar",
+            "flow": "200-800 CFM",
+            "features": [
+                "Continuous Duty",
+                "Low Vibration",
+                "Compact Design",
+                "Energy Star Rated"
+            ],
+            "image": "/products/screw-01.jpg",
+            "pdfUrl": "/downloads/screw-01-brochure.pdf",
+            "isNew": false,
+            "isFeatured": true,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "screw-02",
+            "name": "Variable Speed Screw Compressor",
+            "category": "screw",
+            "subcategory": "vsd",
+            "power": "20-100 HP",
+            "pressure": "5-13 Bar",
+            "flow": "300-1500 CFM",
+            "features": [
+                "VSD Technology",
+                "35% Energy Savings",
+                "Smart Controls",
+                "IoT Enabled"
+            ],
+            "image": "/products/screw-02.jpg",
+            "pdfUrl": "/downloads/screw-02-brochure.pdf",
+            "isNew": true,
+            "isFeatured": true,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "oil-free-01",
+            "name": "Oil-Free Reciprocating Compressor",
+            "category": "oil-free",
+            "subcategory": "reciprocating",
+            "power": "3-10 HP",
+            "pressure": "6-10 Bar",
+            "flow": "40-200 CFM",
+            "features": [
+                "100% Oil-Free",
+                "Class 0 Certified",
+                "Food Grade",
+                "Medical Grade"
+            ],
+            "image": "/products/oilfree-01.jpg",
+            "pdfUrl": "/downloads/oilfree-01-brochure.pdf",
+            "isNew": false,
+            "isFeatured": true,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "oil-free-02",
+            "name": "Oil-Free Scroll Compressor",
+            "category": "oil-free",
+            "subcategory": "scroll",
+            "power": "2-7.5 HP",
+            "pressure": "8 Bar",
+            "flow": "30-150 CFM",
+            "features": [
+                "Ultra Quiet",
+                "Oil-Free Output",
+                "Pharmaceutical Grade",
+                "Low Maintenance"
+            ],
+            "image": "/products/oilfree-02.jpg",
+            "pdfUrl": "/downloads/oilfree-02-brochure.pdf",
+            "isNew": true,
+            "isFeatured": false,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "scroll-01",
+            "name": "Scroll Air Compressor Module",
+            "category": "scroll",
+            "subcategory": "modular",
+            "power": "2-15 HP",
+            "pressure": "7-10 Bar",
+            "flow": "20-250 CFM",
+            "features": [
+                "Modular Design",
+                "Expandable",
+                "Ultra Silent",
+                "Plug & Play"
+            ],
+            "image": "/products/scroll-01.jpg",
+            "pdfUrl": "/downloads/scroll-01-brochure.pdf",
+            "isNew": false,
+            "isFeatured": false,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "vacuum-01",
+            "name": "Industrial Vacuum Pump",
+            "category": "vacuum",
+            "subcategory": "rotary-vane",
+            "power": "3-20 HP",
+            "pressure": "-0.9 Bar (Vacuum)",
+            "flow": "50-500 CFM",
+            "features": [
+                "Deep Vacuum",
+                "Oil Sealed",
+                "Continuous Operation",
+                "Industrial Grade"
+            ],
+            "image": "/products/vacuum-01.jpg",
+            "pdfUrl": "/downloads/vacuum-01-brochure.pdf",
+            "isNew": false,
+            "isFeatured": true,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "vacuum-02",
+            "name": "Dry Vacuum Pump System",
+            "category": "vacuum",
+            "subcategory": "dry",
+            "power": "5-30 HP",
+            "pressure": "-0.95 Bar (Vacuum)",
+            "flow": "100-800 CFM",
+            "features": [
+                "Oil-Free Vacuum",
+                "Low Noise",
+                "Eco-Friendly",
+                "Long Service Life"
+            ],
+            "image": "/products/vacuum-02.jpg",
+            "pdfUrl": "/downloads/vacuum-02-brochure.pdf",
+            "isNew": true,
+            "isFeatured": false,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "dryer-01",
+            "name": "Refrigerant Air Dryer",
+            "category": "dryers",
+            "subcategory": "refrigerant",
+            "power": "0.5-5 HP",
+            "pressure": "16 Bar Max",
+            "flow": "50-1000 CFM",
+            "features": [
+                "Low Dew Point",
+                "Energy Efficient",
+                "Automatic Drain",
+                "Digital Display"
+            ],
+            "image": "/products/dryer-01.jpg",
+            "pdfUrl": "/downloads/dryer-01-brochure.pdf",
+            "isNew": false,
+            "isFeatured": false,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "dryer-02",
+            "name": "Heatless Desiccant Air Dryer",
+            "category": "dryers",
+            "subcategory": "desiccant",
+            "power": "0.3-2 HP",
+            "pressure": "10 Bar Max",
+            "flow": "30-500 CFM",
+            "features": [
+                "Ultra Low Dew Point",
+                "-40°C to -70°C",
+                "Twin Tower",
+                "No Heat Required"
+            ],
+            "image": "/products/dryer-02.jpg",
+            "pdfUrl": "/downloads/dryer-02-brochure.pdf",
+            "isNew": false,
+            "isFeatured": true,
+            "price": "Contact for Quote"
+        },
+        {
+            "id": "filter-01",
+            "name": "Compressed Air Filter System",
+            "category": "dryers",
+            "subcategory": "filters",
+            "power": "N/A",
+            "pressure": "16 Bar Max",
+            "flow": "50-2000 CFM",
+            "features": [
+                "Multi-Stage Filtration",
+                "0.01 Micron",
+                "Oil Removal",
+                "Easy Maintenance"
+            ],
+            "image": "/products/filter-01.jpg",
+            "pdfUrl": "/downloads/filter-01-brochure.pdf",
+            "isNew": false,
+            "isFeatured": false,
+            "price": "Contact for Quote"
+        }
+    ]
+}
